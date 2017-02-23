@@ -1,0 +1,11 @@
+Package: com.sxb.iosregreetings
+Name: iOSREGreetings
+Depends: mobilesubstrate, firmware (>=8.0)
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: sxb
+Author: sxb
+Section: Tweaks
+Homepage: http://bbs.iosre.com
+Version: 1.0-3+debug
+Installed-Size: 136

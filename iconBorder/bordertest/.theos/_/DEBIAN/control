@@ -1,0 +1,11 @@
+Package: com.sxb.bordertest
+Name: bordertest
+Depends: mobilesubstrate, firmware (>= 8.0)
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: sxb
+Author: sxb
+Section: Tweaks
+Homepage: http://bbs.iosre.com
+Version: 1.0-1+debug
+Installed-Size: 136

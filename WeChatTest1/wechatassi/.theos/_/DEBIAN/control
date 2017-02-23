@@ -1,0 +1,10 @@
+Package: com.sxb.WeChatAssi
+Name: WeChatAssi
+Depends: mobilesubstrate, firmware (>= 8.0)
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: SXB
+Author: SXB
+Section: Tweaks
+Version: 1.0-17+debug
+Installed-Size: 136
